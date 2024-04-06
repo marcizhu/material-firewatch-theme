@@ -3,7 +3,7 @@
     "displayName": "Material Firewatch Theme",
     "description": "A Firewatch theme for Visual Studio Code ported from Material Firewatch for Sublime Text",
     "publisher": "marcizhu",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.62.0"
     },
