@@ -1,0 +1,31 @@
+{
+    "name": "material-firewatch-theme",
+    "displayName": "Material Firewatch Theme",
+    "description": "A Firewatch theme for Visual Studio Code ported from Material Firewatch for Sublime Text",
+    "publisher": "marcizhu",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "icon": "",
+    "author": {
+        "name": "Marc Izquierdo",
+        "url": "https://www.linkedin.com/marcizhu"
+    },
+    "repository": {
+        "url": "https://github.com/marcizhu/material-firewatch-vscode",
+        "type": "git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Firewatch",
+                "uiTheme": "vs-dark",
+                "path": "./themes/material-firewatch-color-theme.json"
+            }
+        ]
+    }
+}
