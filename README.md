@@ -12,6 +12,10 @@ A theme based on [Material Color Scheme for Sublime Text](https://github.com/wil
 
 ## Changelog
 
+### 1.0.2 ###
+
+- Update theme logo
+
 ### 1.0.1 ###
 
 - Make inactive tabs slightly darker
